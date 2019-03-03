@@ -1,2 +1,2 @@
 # mflux
-minimam flux
+minimum flux
